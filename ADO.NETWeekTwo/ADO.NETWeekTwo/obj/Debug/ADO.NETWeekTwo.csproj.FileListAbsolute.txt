@@ -1,0 +1,6 @@
+c:\users\орунбаевас\documents\visual studio 2017\Projects\ADO.NETWeekTwo\ADO.NETWeekTwo\bin\Debug\ADO.NETWeekTwo.exe.config
+c:\users\орунбаевас\documents\visual studio 2017\Projects\ADO.NETWeekTwo\ADO.NETWeekTwo\bin\Debug\ADO.NETWeekTwo.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\ADO.NETWeekTwo\ADO.NETWeekTwo\bin\Debug\ADO.NETWeekTwo.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\ADO.NETWeekTwo\ADO.NETWeekTwo\obj\Debug\ADO.NETWeekTwo.csprojResolveAssemblyReference.cache
+c:\users\орунбаевас\documents\visual studio 2017\Projects\ADO.NETWeekTwo\ADO.NETWeekTwo\obj\Debug\ADO.NETWeekTwo.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\ADO.NETWeekTwo\ADO.NETWeekTwo\obj\Debug\ADO.NETWeekTwo.pdb
